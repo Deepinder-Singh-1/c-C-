@@ -1,0 +1,19 @@
+p{
+    color: blueviolet;
+}
+li{
+    list-style-type:square;
+}
+.special{
+    color: aqua;
+    font-weight: bolder;
+}
+h1+p{
+    font-size: 200%;
+    color: rgb(65, 73, 185);
+    font-weight: bold;
+}
+a:hover{
+    color: rgb(114, 241, 250);
+    text-decoration: none;
+}
