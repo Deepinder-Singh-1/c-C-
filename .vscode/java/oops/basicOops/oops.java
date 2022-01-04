@@ -1,10 +1,11 @@
-package oops;
+package oops.basicOops;
+
 class Pen {
     String color;
     String type;//ball//gel
-    public void Write(){
+    public void Write(){                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
         System.out.println("Writing Something");
-    }
+    }  
     public void printcolor(){
         System.out.println(this.color);// this help the compalier to know who is accessing the function;
     }
